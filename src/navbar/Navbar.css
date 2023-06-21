@@ -1,0 +1,9 @@
+.logbtn:hover {
+    background-color: #070707;
+    color:#070707
+}
+
+.navbar{
+    z-index: 999;
+}
+
